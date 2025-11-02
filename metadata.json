@@ -1,0 +1,5 @@
+
+{
+  "name": "Book Registry",
+  "description": "A mini web application to store and display a list of registered books, featuring a form to add new books and a list to view existing ones."
+}
